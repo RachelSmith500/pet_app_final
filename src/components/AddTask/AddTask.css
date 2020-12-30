@@ -1,0 +1,21 @@
+.linethrough{
+    text-decoration-line: line-through;
+}
+
+.text{
+    margin-left: 100px !important;
+ }
+ .test{
+    background-image: url("../../images/cat.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 76vh;
+    padding: 20px;
+}
+.font{
+    font-family: 'Courier New', Courier, monospace;
+    font-size-adjust: 1;
+}
+.move{
+    margin-left: 100px;
+}

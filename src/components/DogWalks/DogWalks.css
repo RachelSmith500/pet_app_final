@@ -1,0 +1,15 @@
+.text{
+   margin-left: 100px !important;
+}
+.body{
+    background-image: url("../../images/dogWalk.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 76vh;
+    padding: 20px;
+}
+
+.font{
+    font-family: 'Courier New', Courier, monospace;
+    font-size-adjust: 1;
+}

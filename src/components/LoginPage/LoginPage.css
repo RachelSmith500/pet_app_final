@@ -1,0 +1,7 @@
+.dog {
+    background-image: url("../../images/dogYellow.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 76vh;
+    padding: 20px;
+}

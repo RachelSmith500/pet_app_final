@@ -1,0 +1,24 @@
+.forecast{
+    background-image: url("../../images/forecast.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 76vh;
+    padding: 20px;
+}
+
+.num{
+    font-size: 1300%;
+    margin-left: 100px !important;
+}
+
+.font{
+    font-family: 'Courier New', Courier, monospace;
+    font-size-adjust: 1;
+    
+}
+
+.text{
+    margin-left: 100px !important;
+    
+ }
+ 
