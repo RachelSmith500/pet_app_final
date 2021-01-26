@@ -65,18 +65,3 @@ return (
 export default Forecast;
 
 
-//    let re = /\w*temp/g
-//    let index = string.search(re) + 6;
-//    let lastIndex = index + 5;
-//    let newString = string.slice(index,lastIndex);
-//    console.log(newString);
-   
-   // console.log(paragraph[paragraph.search(regex)]);
-
-    // data.forEach(weather => {
-    //     console.log(weather);
-
-    //     let reg = /[a-z ]+/gi;
-    //     let result = entry.match(reg);
-    //     console.log(result);
-    // })
