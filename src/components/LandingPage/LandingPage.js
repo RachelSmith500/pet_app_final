@@ -9,7 +9,7 @@ import RegisterForm from '../RegisterForm/RegisterForm';
 
 class LandingPage extends Component {
   state = {
-    heading: 'Class Component',
+    heading: 'Welcome',
   };
 
   onLogin = (event) => {
@@ -23,6 +23,9 @@ class LandingPage extends Component {
 
         <div className="grid">
           <div className="grid-col grid-col_8">
+            <p>
+            Thank you for choosing Pet App, a pet organizational application to keep track of your daily pet activities, check the weather, and document your dog walks. Please register to start using this application. 
+            </p>
           </div>
           <div className="grid-col grid-col_4">
             <RegisterForm />
