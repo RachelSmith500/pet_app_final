@@ -19,6 +19,7 @@ class LandingPage extends Component {
   render() {
     return (
       <div className="container">
+      <div className="test">
         <h2>{this.state.heading}</h2>
 
         <div className="grid">
@@ -36,6 +37,7 @@ class LandingPage extends Component {
                 Login
               </button>
             </center>
+          </div>
           </div>
         </div>
       </div>
